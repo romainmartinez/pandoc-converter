@@ -1,0 +1,11 @@
+name: pandoc-converter
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - rich
+  - pandas
+  - pandoc
+  - tectonic
+  - pypandoc
